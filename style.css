@@ -20,7 +20,8 @@ body {
 
   .login-style {
     flex: 1;
-    background: linear-gradient(to bottom, #7467ed, #efaf6b);
+    background: linear-gradient(to top, #f5e6d8, #d3ddee);
+
     border-radius: 10px 0 0 10px;
     display: flex;
     align-items: center;
